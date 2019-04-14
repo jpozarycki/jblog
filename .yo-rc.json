@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.jpozarycki"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "jblog",
+        "packageName": "com.jpozarycki",
+        "packageFolder": "com/jpozarycki",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YjI2YTg0MDYzMmMxNTU5M2Y4ZDFlMGIzNzUyZTgxZTYzNmY4NDk2ODA4MjBhYWY1ZDJjYjA5MzUzNWFhYTFkOTBhYTExZTBiYjI2ZDFmYjllMjE1ZjhjMTU1YjdmNjE1ZWQzMmQ3OTVjNzNiYzQ3NTI1M2NkOTZiMDI5NTA0YzY=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
